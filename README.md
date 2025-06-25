@@ -1,10 +1,10 @@
-# 📈 Regression Analysis on Spending Patterns and Income of Indian Banks
+#  Regression Analysis on Spending Patterns and Income of Indian Banks
 
 This project investigates how different categories of spending impact the total income of Indian banks using multivariate linear regression. The analysis is based on publicly available financial data from the Reserve Bank of India (RBI) from 2016 to 2020.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 - **Objective**: Determine the effect of various spending patterns (e.g., interest paid, operating costs) on total bank income.
 - **Methodology**: Performed multivariate linear regression to model the relationship between expenditures and income.
@@ -13,7 +13,7 @@ This project investigates how different categories of spending impact the total 
 
 ---
 
-## 📊 Features
+##  Features
 
 - Cleaned and structured real-world financial data from RBI.
 - Performed statistical analysis using multivariate linear regression.
